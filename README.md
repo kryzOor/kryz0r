@@ -17,8 +17,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kryzOor&show_icons=true&theme=matrix&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kryzOor&theme=matrix&hide_border=true)](https://git.io/streak-stats)
 
 ---
