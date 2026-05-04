@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 kryz0r
+# 👾 kryzOor
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+something+cool...;Code+%7C+Create+%7C+Deploy" alt="Typing SVG" />
 
