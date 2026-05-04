@@ -17,8 +17,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kryz0r&show_icons=true&theme=matrix&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kryz0r&theme=matrix&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kryzOor&show_icons=true&theme=matrix&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kryzOor&theme=matrix&hide_border=true" width="48%" />
 
 ---
 
