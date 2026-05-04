@@ -2,7 +2,7 @@
 
 # 👾 kryzOor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+something+cool...;Code+%7C+Create+%7C+Deploy" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+something+cool...;Code+%7C+Create+%7C+Deploy)](https://git.io/typing-svg)
 
 ---
 
@@ -17,13 +17,17 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kryzOor&show_icons=true&theme=matrix&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kryzOor&theme=matrix&hide_border=true" width="48%" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kryzOor&show_icons=true&theme=matrix&hide_border=true&count_private=true)](https://github.com/kryzOor)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kryzOor&theme=matrix&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/kryzOor/kryzOor/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kryzOor/kryzOor/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/kryzOor/kryzOor/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
