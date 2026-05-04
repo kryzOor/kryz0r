@@ -24,12 +24,6 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/kryz0r/kryz0r/output/github-contribution-grid-snake-dark.svg" />
-
----
-
-### 📫 Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+<img src="https://raw.githubusercontent.com/kryzOor/kryzOor/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
